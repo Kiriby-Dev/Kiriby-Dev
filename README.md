@@ -30,19 +30,21 @@
   </ul>
 </div>
 
-<!--- stats (start) -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0; padding: 0; flex-wrap: wrap; text-align: center;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiriby-Dev&theme=dark&show_icons=true&count_private=true" 
-       style="max-width: 45%; height: auto;" />
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiriby-Dev&theme=dark&hide_border=false" 
-       style="max-width: 45%; height: auto;" />
-</div>
-
 <!-- Most Used Languages -->
-<div align="center">
+<div align="center" style="margin-bottom: 1000px;">
   <img align="center" 
        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kiriby-Dev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+</div>
+
+<!-- GitHub Stats -->
+<div align="center" style="margin-bottom: 100px;">
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=Kiriby-Dev&theme=dark&show_icons=true&count_private=true"/>
+</div>
+
+<!-- Streak Stats -->
+<div align="center" style="margin-bottom: 100px;">
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Kiriby-Dev&theme=dark&hide_border=false"/>
 </div>
 <!--- stats (end) -->
