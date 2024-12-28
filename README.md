@@ -31,7 +31,7 @@
 </div>
 
 <!--- stats (start) -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0; padding: 0; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0; padding: 0; flex-wrap: wrap; text-align: center;">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Kiriby-Dev&theme=dark&show_icons=true&count_private=true" 
        style="max-width: 45%; height: auto;" />
