@@ -1,12 +1,7 @@
-<div align="center">
-  <h1>👋 ¡Hola! Soy <span style="color: #ff6666;">Nicolás</span> 👨‍💻</h1>
-  <p>
-    Soy estudiante de <b>Ingeniería en Computación</b> 🚀 con un fuerte interés en el <b>desarrollo de software</b>. Actualmente estoy profundizando mis conocimientos en <b>React</b> y <b>JavaScript</b> para crear aplicaciones web dinámicas y emocionantes.
-  </p>
-  <p>
-    Además, me apasiona el <b>desarrollo de videojuegos</b> 🎮, buscando siempre mejorar mis habilidades y aprender nuevas tecnologías como <b>Unity</b> y <b>C#</b>. Estoy comprometido con el aprendizaje continuo y colaborando en proyectos que me permitan crecer como desarrollador.
-  </p>
-  <p>🎮 💻 🌟</p>
+<div align="center"> 
+  <h1>👋 ¡Hola! Soy <span style="color: #ff6666;">Nicolás</span> 🎮👨‍💻</h1> 
+  <p> Estudiante de Ingeniería en Computación apasionado por el <b>desarrollo de videojuegos</b>. Trabajo principalmente con <b>Unity</b> y <b>C#</b>, creando mecánicas innovadoras y sistemas sólidos para ofrecer experiencias de juego únicas y atractivas. </p> 
+  <p> Siempre en busca de nuevos retos para mejorar mis habilidades y colaborar en proyectos que impulsen la creatividad y la calidad técnica. </p> <p>🚀💻🎮</p> 
 </div>
 
 <!--h1 without bottom border-->
